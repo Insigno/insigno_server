@@ -5,10 +5,10 @@ Server implemented in c
 1. Use makefile to compile
 1. start server
 1. start client1
-1. write client1 IP (ex: 127.0.0.1)
+1. write client1 IP (e.g. 127.0.0.1)
 1. write client1 id
 1. start client2 
-1. write client2 IP (ex: 127.0.0.2)
+1. write client2 IP (e.g. 127.0.0.2)
 1. write client2 id
 1. client1 write client2 id
 1. client2 write client1 id
