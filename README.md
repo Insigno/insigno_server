@@ -30,6 +30,7 @@ Server implemented in c
 * NEED TO MAKE PROTOCOLS FOR SENDING STUFF
 * Send files
 * Logging?
+* SSL sockets?
 * Need better client preferably a GUI client app
 * And much much more
 
