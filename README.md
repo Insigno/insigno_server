@@ -1,6 +1,6 @@
 # insigno_server
 Server implemented in c
-
+test
 # Instructions:
 1. Use makefile to compile
 1. start server
